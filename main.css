@@ -1,0 +1,11 @@
+.breadcrumb-item + .breadcrumb-item::before {
+    content: ">";
+}
+
+
+.checked {
+    color: orange;
+}
+#dark{
+    background-color: #33363d;
+}
